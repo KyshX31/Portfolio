@@ -545,6 +545,10 @@ strong {
   color: #ffc200;
 }
 
+.about-img {
+  height: 600px;
+}
+
 @media (min-width: 1270px) {
   .owl-theme .owl-dots {
     position: relative;
@@ -563,7 +567,12 @@ strong {
 
   .about-image {
     margin-top: 4em;
+
+
+
   }
+
+
 
   .mobile-mt-2,
   .contact-form {
